@@ -5,3 +5,4 @@ qemu
 buildroot_overlay
 firesim-riscv-tools-prebuilt-2.0
 2.0.tar.gz
+cscope.out
